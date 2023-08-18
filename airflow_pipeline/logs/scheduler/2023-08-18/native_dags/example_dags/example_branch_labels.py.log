@@ -1,0 +1,39 @@
+[2023-08-18 01:56:46,563] {processor.py:153} INFO - Started process (PID=3582) to work on /home/guilherme/extracao-dados-twitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py
+[2023-08-18 01:56:46,564] {processor.py:641} INFO - Processing file /home/guilherme/extracao-dados-twitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2023-08-18 01:56:46,564] {logging_mixin.py:115} INFO - [2023-08-18 01:56:46,564] {dagbag.py:507} INFO - Filling up the DagBag from /home/guilherme/extracao-dados-twitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py
+[2023-08-18 01:56:46,572] {processor.py:651} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /home/guilherme/extracao-dados-twitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py
+[2023-08-18 01:56:46,683] {logging_mixin.py:115} INFO - [2023-08-18 01:56:46,683] {manager.py:508} INFO - Created Permission View: can edit on DAG:example_branch_labels
+[2023-08-18 01:56:46,707] {logging_mixin.py:115} INFO - [2023-08-18 01:56:46,707] {manager.py:508} INFO - Created Permission View: can delete on DAG:example_branch_labels
+[2023-08-18 01:56:46,726] {logging_mixin.py:115} INFO - [2023-08-18 01:56:46,726] {manager.py:508} INFO - Created Permission View: can read on DAG:example_branch_labels
+[2023-08-18 01:56:46,726] {logging_mixin.py:115} INFO - [2023-08-18 01:56:46,726] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-08-18 01:56:46,737] {logging_mixin.py:115} INFO - [2023-08-18 01:56:46,736] {dag.py:2398} INFO - Creating ORM DAG for example_branch_labels
+[2023-08-18 01:56:46,751] {logging_mixin.py:115} INFO - [2023-08-18 01:56:46,751] {dag.py:2927} INFO - Setting next_dagrun for example_branch_labels to 2023-08-17T00:00:00+00:00, run_after=2023-08-18T00:00:00+00:00
+[2023-08-18 01:56:46,777] {processor.py:161} INFO - Processing /home/guilherme/extracao-dados-twitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py took 0.218 seconds
+[2023-08-18 01:57:23,442] {processor.py:153} INFO - Started process (PID=3823) to work on /home/guilherme/extracao-dados-twitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py
+[2023-08-18 01:57:23,442] {processor.py:641} INFO - Processing file /home/guilherme/extracao-dados-twitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2023-08-18 01:57:23,443] {logging_mixin.py:115} INFO - [2023-08-18 01:57:23,443] {dagbag.py:507} INFO - Filling up the DagBag from /home/guilherme/extracao-dados-twitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py
+[2023-08-18 01:57:23,450] {processor.py:651} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /home/guilherme/extracao-dados-twitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py
+[2023-08-18 01:57:23,471] {logging_mixin.py:115} INFO - [2023-08-18 01:57:23,470] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-08-18 01:57:23,496] {logging_mixin.py:115} INFO - [2023-08-18 01:57:23,496] {dag.py:2927} INFO - Setting next_dagrun for example_branch_labels to 2023-08-17T00:00:00+00:00, run_after=2023-08-18T00:00:00+00:00
+[2023-08-18 01:57:23,522] {processor.py:161} INFO - Processing /home/guilherme/extracao-dados-twitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py took 0.085 seconds
+[2023-08-18 01:57:58,366] {processor.py:153} INFO - Started process (PID=4015) to work on /home/guilherme/extracao-dados-twitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py
+[2023-08-18 01:57:58,367] {processor.py:641} INFO - Processing file /home/guilherme/extracao-dados-twitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2023-08-18 01:57:58,367] {logging_mixin.py:115} INFO - [2023-08-18 01:57:58,367] {dagbag.py:507} INFO - Filling up the DagBag from /home/guilherme/extracao-dados-twitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py
+[2023-08-18 01:57:58,375] {processor.py:651} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /home/guilherme/extracao-dados-twitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py
+[2023-08-18 01:57:58,399] {logging_mixin.py:115} INFO - [2023-08-18 01:57:58,399] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-08-18 01:57:58,422] {logging_mixin.py:115} INFO - [2023-08-18 01:57:58,422] {dag.py:2927} INFO - Setting next_dagrun for example_branch_labels to 2023-08-17T00:00:00+00:00, run_after=2023-08-18T00:00:00+00:00
+[2023-08-18 01:57:58,459] {processor.py:161} INFO - Processing /home/guilherme/extracao-dados-twitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py took 0.097 seconds
+[2023-08-18 01:58:33,091] {processor.py:153} INFO - Started process (PID=4102) to work on /home/guilherme/extracao-dados-twitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py
+[2023-08-18 01:58:33,092] {processor.py:641} INFO - Processing file /home/guilherme/extracao-dados-twitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2023-08-18 01:58:33,092] {logging_mixin.py:115} INFO - [2023-08-18 01:58:33,092] {dagbag.py:507} INFO - Filling up the DagBag from /home/guilherme/extracao-dados-twitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py
+[2023-08-18 01:58:33,100] {processor.py:651} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /home/guilherme/extracao-dados-twitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py
+[2023-08-18 01:58:33,120] {logging_mixin.py:115} INFO - [2023-08-18 01:58:33,119] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-08-18 01:58:33,144] {logging_mixin.py:115} INFO - [2023-08-18 01:58:33,143] {dag.py:2927} INFO - Setting next_dagrun for example_branch_labels to 2023-08-17T00:00:00+00:00, run_after=2023-08-18T00:00:00+00:00
+[2023-08-18 01:58:33,168] {processor.py:161} INFO - Processing /home/guilherme/extracao-dados-twitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py took 0.081 seconds
+[2023-08-18 01:59:07,894] {processor.py:153} INFO - Started process (PID=4137) to work on /home/guilherme/extracao-dados-twitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py
+[2023-08-18 01:59:07,895] {processor.py:641} INFO - Processing file /home/guilherme/extracao-dados-twitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2023-08-18 01:59:07,896] {logging_mixin.py:115} INFO - [2023-08-18 01:59:07,896] {dagbag.py:507} INFO - Filling up the DagBag from /home/guilherme/extracao-dados-twitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py
+[2023-08-18 01:59:07,904] {processor.py:651} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /home/guilherme/extracao-dados-twitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py
+[2023-08-18 01:59:07,926] {logging_mixin.py:115} INFO - [2023-08-18 01:59:07,926] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-08-18 01:59:07,965] {logging_mixin.py:115} INFO - [2023-08-18 01:59:07,964] {dag.py:2927} INFO - Setting next_dagrun for example_branch_labels to 2023-08-17T00:00:00+00:00, run_after=2023-08-18T00:00:00+00:00
+[2023-08-18 01:59:08,004] {processor.py:161} INFO - Processing /home/guilherme/extracao-dados-twitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py took 0.114 seconds

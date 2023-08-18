@@ -1,0 +1,39 @@
+[2023-08-18 01:56:29,665] {processor.py:153} INFO - Started process (PID=3566) to work on /home/guilherme/extracao-dados-twitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-08-18 01:56:29,665] {processor.py:641} INFO - Processing file /home/guilherme/extracao-dados-twitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-08-18 01:56:29,666] {logging_mixin.py:115} INFO - [2023-08-18 01:56:29,665] {dagbag.py:507} INFO - Filling up the DagBag from /home/guilherme/extracao-dados-twitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-08-18 01:56:29,672] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/guilherme/extracao-dados-twitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-08-18 01:56:29,796] {logging_mixin.py:115} INFO - [2023-08-18 01:56:29,796] {manager.py:508} INFO - Created Permission View: can edit on DAG:example_skip_dag
+[2023-08-18 01:56:29,816] {logging_mixin.py:115} INFO - [2023-08-18 01:56:29,816] {manager.py:508} INFO - Created Permission View: can delete on DAG:example_skip_dag
+[2023-08-18 01:56:29,846] {logging_mixin.py:115} INFO - [2023-08-18 01:56:29,846] {manager.py:508} INFO - Created Permission View: can read on DAG:example_skip_dag
+[2023-08-18 01:56:29,847] {logging_mixin.py:115} INFO - [2023-08-18 01:56:29,847] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-08-18 01:56:29,862] {logging_mixin.py:115} INFO - [2023-08-18 01:56:29,862] {dag.py:2398} INFO - Creating ORM DAG for example_skip_dag
+[2023-08-18 01:56:29,874] {logging_mixin.py:115} INFO - [2023-08-18 01:56:29,874] {dag.py:2927} INFO - Setting next_dagrun for example_skip_dag to 2023-08-17T01:56:29.873807+00:00, run_after=2023-08-18T01:56:29.873807+00:00
+[2023-08-18 01:56:29,913] {processor.py:161} INFO - Processing /home/guilherme/extracao-dados-twitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py took 0.253 seconds
+[2023-08-18 01:57:09,234] {processor.py:153} INFO - Started process (PID=3708) to work on /home/guilherme/extracao-dados-twitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-08-18 01:57:09,235] {processor.py:641} INFO - Processing file /home/guilherme/extracao-dados-twitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-08-18 01:57:09,235] {logging_mixin.py:115} INFO - [2023-08-18 01:57:09,235] {dagbag.py:507} INFO - Filling up the DagBag from /home/guilherme/extracao-dados-twitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-08-18 01:57:09,242] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/guilherme/extracao-dados-twitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-08-18 01:57:09,263] {logging_mixin.py:115} INFO - [2023-08-18 01:57:09,263] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-08-18 01:57:09,287] {logging_mixin.py:115} INFO - [2023-08-18 01:57:09,287] {dag.py:2927} INFO - Setting next_dagrun for example_skip_dag to 2023-08-17T01:57:09.287032+00:00, run_after=2023-08-18T01:57:09.287032+00:00
+[2023-08-18 01:57:09,339] {processor.py:161} INFO - Processing /home/guilherme/extracao-dados-twitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py took 0.108 seconds
+[2023-08-18 01:57:44,953] {processor.py:153} INFO - Started process (PID=3899) to work on /home/guilherme/extracao-dados-twitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-08-18 01:57:44,953] {processor.py:641} INFO - Processing file /home/guilherme/extracao-dados-twitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-08-18 01:57:44,954] {logging_mixin.py:115} INFO - [2023-08-18 01:57:44,954] {dagbag.py:507} INFO - Filling up the DagBag from /home/guilherme/extracao-dados-twitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-08-18 01:57:44,960] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/guilherme/extracao-dados-twitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-08-18 01:57:44,993] {logging_mixin.py:115} INFO - [2023-08-18 01:57:44,993] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-08-18 01:57:45,019] {logging_mixin.py:115} INFO - [2023-08-18 01:57:45,019] {dag.py:2927} INFO - Setting next_dagrun for example_skip_dag to 2023-08-17T01:57:45.018896+00:00, run_after=2023-08-18T01:57:45.018896+00:00
+[2023-08-18 01:57:45,089] {processor.py:161} INFO - Processing /home/guilherme/extracao-dados-twitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py took 0.141 seconds
+[2023-08-18 01:58:20,952] {processor.py:153} INFO - Started process (PID=4089) to work on /home/guilherme/extracao-dados-twitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-08-18 01:58:20,953] {processor.py:641} INFO - Processing file /home/guilherme/extracao-dados-twitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-08-18 01:58:20,953] {logging_mixin.py:115} INFO - [2023-08-18 01:58:20,953] {dagbag.py:507} INFO - Filling up the DagBag from /home/guilherme/extracao-dados-twitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-08-18 01:58:20,960] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/guilherme/extracao-dados-twitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-08-18 01:58:20,982] {logging_mixin.py:115} INFO - [2023-08-18 01:58:20,982] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-08-18 01:58:21,007] {logging_mixin.py:115} INFO - [2023-08-18 01:58:21,007] {dag.py:2927} INFO - Setting next_dagrun for example_skip_dag to 2023-08-17T01:58:21.006738+00:00, run_after=2023-08-18T01:58:21.006738+00:00
+[2023-08-18 01:58:21,048] {processor.py:161} INFO - Processing /home/guilherme/extracao-dados-twitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py took 0.100 seconds
+[2023-08-18 01:58:55,220] {processor.py:153} INFO - Started process (PID=4123) to work on /home/guilherme/extracao-dados-twitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-08-18 01:58:55,221] {processor.py:641} INFO - Processing file /home/guilherme/extracao-dados-twitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-08-18 01:58:55,221] {logging_mixin.py:115} INFO - [2023-08-18 01:58:55,221] {dagbag.py:507} INFO - Filling up the DagBag from /home/guilherme/extracao-dados-twitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-08-18 01:58:55,228] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/guilherme/extracao-dados-twitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-08-18 01:58:55,249] {logging_mixin.py:115} INFO - [2023-08-18 01:58:55,249] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-08-18 01:58:55,271] {logging_mixin.py:115} INFO - [2023-08-18 01:58:55,271] {dag.py:2927} INFO - Setting next_dagrun for example_skip_dag to 2023-08-17T01:58:55.271328+00:00, run_after=2023-08-18T01:58:55.271328+00:00
+[2023-08-18 01:58:55,310] {processor.py:161} INFO - Processing /home/guilherme/extracao-dados-twitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py took 0.094 seconds

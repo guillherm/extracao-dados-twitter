@@ -1,0 +1,25 @@
+[2023-08-18 01:56:17,612] {processor.py:153} INFO - Started process (PID=3455) to work on /home/guilherme/extracao-dados-twitter/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-08-18 01:56:17,613] {processor.py:641} INFO - Processing file /home/guilherme/extracao-dados-twitter/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-08-18 01:56:17,630] {logging_mixin.py:115} INFO - [2023-08-18 01:56:17,629] {dagbag.py:507} INFO - Filling up the DagBag from /home/guilherme/extracao-dados-twitter/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-08-18 01:56:17,632] {processor.py:653} WARNING - No viable dags retrieved from /home/guilherme/extracao-dados-twitter/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-08-18 01:56:17,669] {processor.py:161} INFO - Processing /home/guilherme/extracao-dados-twitter/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py took 0.062 seconds
+[2023-08-18 01:56:59,963] {processor.py:153} INFO - Started process (PID=3594) to work on /home/guilherme/extracao-dados-twitter/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-08-18 01:56:59,964] {processor.py:641} INFO - Processing file /home/guilherme/extracao-dados-twitter/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-08-18 01:56:59,964] {logging_mixin.py:115} INFO - [2023-08-18 01:56:59,964] {dagbag.py:507} INFO - Filling up the DagBag from /home/guilherme/extracao-dados-twitter/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-08-18 01:56:59,966] {processor.py:653} WARNING - No viable dags retrieved from /home/guilherme/extracao-dados-twitter/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-08-18 01:56:59,978] {processor.py:161} INFO - Processing /home/guilherme/extracao-dados-twitter/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py took 0.019 seconds
+[2023-08-18 01:57:34,813] {processor.py:153} INFO - Started process (PID=3889) to work on /home/guilherme/extracao-dados-twitter/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-08-18 01:57:34,814] {processor.py:641} INFO - Processing file /home/guilherme/extracao-dados-twitter/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-08-18 01:57:34,815] {logging_mixin.py:115} INFO - [2023-08-18 01:57:34,815] {dagbag.py:507} INFO - Filling up the DagBag from /home/guilherme/extracao-dados-twitter/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-08-18 01:57:34,816] {processor.py:653} WARNING - No viable dags retrieved from /home/guilherme/extracao-dados-twitter/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-08-18 01:57:34,830] {processor.py:161} INFO - Processing /home/guilherme/extracao-dados-twitter/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py took 0.021 seconds
+[2023-08-18 01:58:10,628] {processor.py:153} INFO - Started process (PID=4079) to work on /home/guilherme/extracao-dados-twitter/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-08-18 01:58:10,629] {processor.py:641} INFO - Processing file /home/guilherme/extracao-dados-twitter/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-08-18 01:58:10,630] {logging_mixin.py:115} INFO - [2023-08-18 01:58:10,630] {dagbag.py:507} INFO - Filling up the DagBag from /home/guilherme/extracao-dados-twitter/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-08-18 01:58:10,631] {processor.py:653} WARNING - No viable dags retrieved from /home/guilherme/extracao-dados-twitter/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-08-18 01:58:10,645] {processor.py:161} INFO - Processing /home/guilherme/extracao-dados-twitter/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py took 0.021 seconds
+[2023-08-18 01:58:44,782] {processor.py:153} INFO - Started process (PID=4113) to work on /home/guilherme/extracao-dados-twitter/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-08-18 01:58:44,783] {processor.py:641} INFO - Processing file /home/guilherme/extracao-dados-twitter/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-08-18 01:58:44,783] {logging_mixin.py:115} INFO - [2023-08-18 01:58:44,783] {dagbag.py:507} INFO - Filling up the DagBag from /home/guilherme/extracao-dados-twitter/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-08-18 01:58:44,785] {processor.py:653} WARNING - No viable dags retrieved from /home/guilherme/extracao-dados-twitter/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-08-18 01:58:44,799] {processor.py:161} INFO - Processing /home/guilherme/extracao-dados-twitter/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py took 0.020 seconds

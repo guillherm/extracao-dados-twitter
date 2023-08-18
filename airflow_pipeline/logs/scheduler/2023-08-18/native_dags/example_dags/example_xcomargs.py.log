@@ -1,0 +1,48 @@
+[2023-08-18 01:56:42,426] {processor.py:153} INFO - Started process (PID=3579) to work on /home/guilherme/extracao-dados-twitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py
+[2023-08-18 01:56:42,426] {processor.py:641} INFO - Processing file /home/guilherme/extracao-dados-twitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py for tasks to queue
+[2023-08-18 01:56:42,427] {logging_mixin.py:115} INFO - [2023-08-18 01:56:42,427] {dagbag.py:507} INFO - Filling up the DagBag from /home/guilherme/extracao-dados-twitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py
+[2023-08-18 01:56:42,450] {processor.py:651} INFO - DAG(s) dict_keys(['example_xcom_args', 'example_xcom_args_with_operators']) retrieved from /home/guilherme/extracao-dados-twitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py
+[2023-08-18 01:56:42,577] {logging_mixin.py:115} INFO - [2023-08-18 01:56:42,577] {manager.py:508} INFO - Created Permission View: can edit on DAG:example_xcom_args
+[2023-08-18 01:56:42,610] {logging_mixin.py:115} INFO - [2023-08-18 01:56:42,610] {manager.py:508} INFO - Created Permission View: can delete on DAG:example_xcom_args
+[2023-08-18 01:56:42,642] {logging_mixin.py:115} INFO - [2023-08-18 01:56:42,642] {manager.py:508} INFO - Created Permission View: can read on DAG:example_xcom_args
+[2023-08-18 01:56:42,700] {logging_mixin.py:115} INFO - [2023-08-18 01:56:42,699] {manager.py:508} INFO - Created Permission View: can edit on DAG:example_xcom_args_with_operators
+[2023-08-18 01:56:42,722] {logging_mixin.py:115} INFO - [2023-08-18 01:56:42,722] {manager.py:508} INFO - Created Permission View: can delete on DAG:example_xcom_args_with_operators
+[2023-08-18 01:56:42,750] {logging_mixin.py:115} INFO - [2023-08-18 01:56:42,750] {manager.py:508} INFO - Created Permission View: can read on DAG:example_xcom_args_with_operators
+[2023-08-18 01:56:42,751] {logging_mixin.py:115} INFO - [2023-08-18 01:56:42,751] {dag.py:2379} INFO - Sync 2 DAGs
+[2023-08-18 01:56:42,760] {logging_mixin.py:115} INFO - [2023-08-18 01:56:42,760] {dag.py:2398} INFO - Creating ORM DAG for example_xcom_args
+[2023-08-18 01:56:42,760] {logging_mixin.py:115} INFO - [2023-08-18 01:56:42,760] {dag.py:2398} INFO - Creating ORM DAG for example_xcom_args_with_operators
+[2023-08-18 01:56:42,771] {logging_mixin.py:115} INFO - [2023-08-18 01:56:42,771] {dag.py:2927} INFO - Setting next_dagrun for example_xcom_args to None, run_after=None
+[2023-08-18 01:56:42,771] {logging_mixin.py:115} INFO - [2023-08-18 01:56:42,771] {dag.py:2927} INFO - Setting next_dagrun for example_xcom_args_with_operators to None, run_after=None
+[2023-08-18 01:56:42,818] {processor.py:161} INFO - Processing /home/guilherme/extracao-dados-twitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py took 0.396 seconds
+[2023-08-18 01:57:19,770] {processor.py:153} INFO - Started process (PID=3820) to work on /home/guilherme/extracao-dados-twitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py
+[2023-08-18 01:57:19,770] {processor.py:641} INFO - Processing file /home/guilherme/extracao-dados-twitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py for tasks to queue
+[2023-08-18 01:57:19,771] {logging_mixin.py:115} INFO - [2023-08-18 01:57:19,771] {dagbag.py:507} INFO - Filling up the DagBag from /home/guilherme/extracao-dados-twitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py
+[2023-08-18 01:57:19,795] {processor.py:651} INFO - DAG(s) dict_keys(['example_xcom_args', 'example_xcom_args_with_operators']) retrieved from /home/guilherme/extracao-dados-twitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py
+[2023-08-18 01:57:19,857] {logging_mixin.py:115} INFO - [2023-08-18 01:57:19,857] {dag.py:2379} INFO - Sync 2 DAGs
+[2023-08-18 01:57:19,876] {logging_mixin.py:115} INFO - [2023-08-18 01:57:19,876] {dag.py:2927} INFO - Setting next_dagrun for example_xcom_args to None, run_after=None
+[2023-08-18 01:57:19,877] {logging_mixin.py:115} INFO - [2023-08-18 01:57:19,877] {dag.py:2927} INFO - Setting next_dagrun for example_xcom_args_with_operators to None, run_after=None
+[2023-08-18 01:57:19,918] {processor.py:161} INFO - Processing /home/guilherme/extracao-dados-twitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py took 0.152 seconds
+[2023-08-18 01:57:55,195] {processor.py:153} INFO - Started process (PID=3961) to work on /home/guilherme/extracao-dados-twitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py
+[2023-08-18 01:57:55,196] {processor.py:641} INFO - Processing file /home/guilherme/extracao-dados-twitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py for tasks to queue
+[2023-08-18 01:57:55,197] {logging_mixin.py:115} INFO - [2023-08-18 01:57:55,197] {dagbag.py:507} INFO - Filling up the DagBag from /home/guilherme/extracao-dados-twitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py
+[2023-08-18 01:57:55,232] {processor.py:651} INFO - DAG(s) dict_keys(['example_xcom_args', 'example_xcom_args_with_operators']) retrieved from /home/guilherme/extracao-dados-twitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py
+[2023-08-18 01:57:55,266] {logging_mixin.py:115} INFO - [2023-08-18 01:57:55,266] {dag.py:2379} INFO - Sync 2 DAGs
+[2023-08-18 01:57:55,304] {logging_mixin.py:115} INFO - [2023-08-18 01:57:55,303] {dag.py:2927} INFO - Setting next_dagrun for example_xcom_args to None, run_after=None
+[2023-08-18 01:57:55,304] {logging_mixin.py:115} INFO - [2023-08-18 01:57:55,304] {dag.py:2927} INFO - Setting next_dagrun for example_xcom_args_with_operators to None, run_after=None
+[2023-08-18 01:57:55,354] {processor.py:161} INFO - Processing /home/guilherme/extracao-dados-twitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py took 0.165 seconds
+[2023-08-18 01:58:30,326] {processor.py:153} INFO - Started process (PID=4099) to work on /home/guilherme/extracao-dados-twitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py
+[2023-08-18 01:58:30,327] {processor.py:641} INFO - Processing file /home/guilherme/extracao-dados-twitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py for tasks to queue
+[2023-08-18 01:58:30,328] {logging_mixin.py:115} INFO - [2023-08-18 01:58:30,328] {dagbag.py:507} INFO - Filling up the DagBag from /home/guilherme/extracao-dados-twitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py
+[2023-08-18 01:58:30,349] {processor.py:651} INFO - DAG(s) dict_keys(['example_xcom_args', 'example_xcom_args_with_operators']) retrieved from /home/guilherme/extracao-dados-twitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py
+[2023-08-18 01:58:30,412] {logging_mixin.py:115} INFO - [2023-08-18 01:58:30,412] {dag.py:2379} INFO - Sync 2 DAGs
+[2023-08-18 01:58:30,430] {logging_mixin.py:115} INFO - [2023-08-18 01:58:30,430] {dag.py:2927} INFO - Setting next_dagrun for example_xcom_args to None, run_after=None
+[2023-08-18 01:58:30,431] {logging_mixin.py:115} INFO - [2023-08-18 01:58:30,431] {dag.py:2927} INFO - Setting next_dagrun for example_xcom_args_with_operators to None, run_after=None
+[2023-08-18 01:58:30,464] {processor.py:161} INFO - Processing /home/guilherme/extracao-dados-twitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py took 0.142 seconds
+[2023-08-18 01:59:04,370] {processor.py:153} INFO - Started process (PID=4134) to work on /home/guilherme/extracao-dados-twitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py
+[2023-08-18 01:59:04,371] {processor.py:641} INFO - Processing file /home/guilherme/extracao-dados-twitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py for tasks to queue
+[2023-08-18 01:59:04,372] {logging_mixin.py:115} INFO - [2023-08-18 01:59:04,371] {dagbag.py:507} INFO - Filling up the DagBag from /home/guilherme/extracao-dados-twitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py
+[2023-08-18 01:59:04,395] {processor.py:651} INFO - DAG(s) dict_keys(['example_xcom_args', 'example_xcom_args_with_operators']) retrieved from /home/guilherme/extracao-dados-twitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py
+[2023-08-18 01:59:04,417] {logging_mixin.py:115} INFO - [2023-08-18 01:59:04,417] {dag.py:2379} INFO - Sync 2 DAGs
+[2023-08-18 01:59:04,438] {logging_mixin.py:115} INFO - [2023-08-18 01:59:04,438] {dag.py:2927} INFO - Setting next_dagrun for example_xcom_args to None, run_after=None
+[2023-08-18 01:59:04,438] {logging_mixin.py:115} INFO - [2023-08-18 01:59:04,438] {dag.py:2927} INFO - Setting next_dagrun for example_xcom_args_with_operators to None, run_after=None
+[2023-08-18 01:59:04,461] {processor.py:161} INFO - Processing /home/guilherme/extracao-dados-twitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py took 0.094 seconds

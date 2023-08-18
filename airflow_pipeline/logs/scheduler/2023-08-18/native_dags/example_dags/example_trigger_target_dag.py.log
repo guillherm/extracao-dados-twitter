@@ -1,0 +1,39 @@
+[2023-08-18 01:56:38,745] {processor.py:153} INFO - Started process (PID=3574) to work on /home/guilherme/extracao-dados-twitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-08-18 01:56:38,746] {processor.py:641} INFO - Processing file /home/guilherme/extracao-dados-twitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2023-08-18 01:56:38,746] {logging_mixin.py:115} INFO - [2023-08-18 01:56:38,746] {dagbag.py:507} INFO - Filling up the DagBag from /home/guilherme/extracao-dados-twitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-08-18 01:56:38,764] {processor.py:651} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/guilherme/extracao-dados-twitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-08-18 01:56:38,870] {logging_mixin.py:115} INFO - [2023-08-18 01:56:38,870] {manager.py:508} INFO - Created Permission View: can edit on DAG:example_trigger_target_dag
+[2023-08-18 01:56:38,899] {logging_mixin.py:115} INFO - [2023-08-18 01:56:38,899] {manager.py:508} INFO - Created Permission View: can delete on DAG:example_trigger_target_dag
+[2023-08-18 01:56:38,917] {logging_mixin.py:115} INFO - [2023-08-18 01:56:38,917] {manager.py:508} INFO - Created Permission View: can read on DAG:example_trigger_target_dag
+[2023-08-18 01:56:38,917] {logging_mixin.py:115} INFO - [2023-08-18 01:56:38,917] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-08-18 01:56:38,926] {logging_mixin.py:115} INFO - [2023-08-18 01:56:38,926] {dag.py:2398} INFO - Creating ORM DAG for example_trigger_target_dag
+[2023-08-18 01:56:38,937] {logging_mixin.py:115} INFO - [2023-08-18 01:56:38,937] {dag.py:2927} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2023-08-18 01:56:38,964] {processor.py:161} INFO - Processing /home/guilherme/extracao-dados-twitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.223 seconds
+[2023-08-18 01:57:16,905] {processor.py:153} INFO - Started process (PID=3817) to work on /home/guilherme/extracao-dados-twitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-08-18 01:57:16,905] {processor.py:641} INFO - Processing file /home/guilherme/extracao-dados-twitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2023-08-18 01:57:16,906] {logging_mixin.py:115} INFO - [2023-08-18 01:57:16,906] {dagbag.py:507} INFO - Filling up the DagBag from /home/guilherme/extracao-dados-twitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-08-18 01:57:16,925] {processor.py:651} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/guilherme/extracao-dados-twitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-08-18 01:57:16,945] {logging_mixin.py:115} INFO - [2023-08-18 01:57:16,945] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-08-18 01:57:16,967] {logging_mixin.py:115} INFO - [2023-08-18 01:57:16,967] {dag.py:2927} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2023-08-18 01:57:17,007] {processor.py:161} INFO - Processing /home/guilherme/extracao-dados-twitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.106 seconds
+[2023-08-18 01:57:52,440] {processor.py:153} INFO - Started process (PID=3929) to work on /home/guilherme/extracao-dados-twitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-08-18 01:57:52,441] {processor.py:641} INFO - Processing file /home/guilherme/extracao-dados-twitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2023-08-18 01:57:52,441] {logging_mixin.py:115} INFO - [2023-08-18 01:57:52,441] {dagbag.py:507} INFO - Filling up the DagBag from /home/guilherme/extracao-dados-twitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-08-18 01:57:52,460] {processor.py:651} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/guilherme/extracao-dados-twitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-08-18 01:57:52,480] {logging_mixin.py:115} INFO - [2023-08-18 01:57:52,480] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-08-18 01:57:52,501] {logging_mixin.py:115} INFO - [2023-08-18 01:57:52,501] {dag.py:2927} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2023-08-18 01:57:52,525] {processor.py:161} INFO - Processing /home/guilherme/extracao-dados-twitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.089 seconds
+[2023-08-18 01:58:27,426] {processor.py:153} INFO - Started process (PID=4096) to work on /home/guilherme/extracao-dados-twitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-08-18 01:58:27,426] {processor.py:641} INFO - Processing file /home/guilherme/extracao-dados-twitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2023-08-18 01:58:27,427] {logging_mixin.py:115} INFO - [2023-08-18 01:58:27,427] {dagbag.py:507} INFO - Filling up the DagBag from /home/guilherme/extracao-dados-twitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-08-18 01:58:27,446] {processor.py:651} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/guilherme/extracao-dados-twitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-08-18 01:58:27,465] {logging_mixin.py:115} INFO - [2023-08-18 01:58:27,465] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-08-18 01:58:27,486] {logging_mixin.py:115} INFO - [2023-08-18 01:58:27,486] {dag.py:2927} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2023-08-18 01:58:27,531] {processor.py:161} INFO - Processing /home/guilherme/extracao-dados-twitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.109 seconds
+[2023-08-18 01:59:01,504] {processor.py:153} INFO - Started process (PID=4131) to work on /home/guilherme/extracao-dados-twitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-08-18 01:59:01,505] {processor.py:641} INFO - Processing file /home/guilherme/extracao-dados-twitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2023-08-18 01:59:01,506] {logging_mixin.py:115} INFO - [2023-08-18 01:59:01,506] {dagbag.py:507} INFO - Filling up the DagBag from /home/guilherme/extracao-dados-twitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-08-18 01:59:01,527] {processor.py:651} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/guilherme/extracao-dados-twitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-08-18 01:59:01,546] {logging_mixin.py:115} INFO - [2023-08-18 01:59:01,546] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-08-18 01:59:01,567] {logging_mixin.py:115} INFO - [2023-08-18 01:59:01,567] {dag.py:2927} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2023-08-18 01:59:01,602] {processor.py:161} INFO - Processing /home/guilherme/extracao-dados-twitter/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.102 seconds
