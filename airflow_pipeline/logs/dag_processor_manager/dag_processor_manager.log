@@ -1337,3 +1337,699 @@ File Path                                                                    PID
 /home/guilherme/extracao-dados-twitter/airflow_pipeline/dags/twitter_dag.py                           1           0  0.11s           2023-08-18T18:37:54
 ================================================================================
 [2023-08-18 18:38:10,760] {manager.py:462} INFO - Exiting gracefully upon receiving signal 15
+[2023-08-18 19:34:45,530] {manager.py:480} INFO - Processing files using up to 1 processes at a time 
+[2023-08-18 19:34:45,530] {manager.py:481} INFO - Process each file at most once every 30 seconds
+[2023-08-18 19:34:45,530] {manager.py:482} INFO - Checking for new files in /home/guilherme/extracao-dados-twitter/airflow_pipeline/dags every 300 seconds
+[2023-08-18 19:34:45,530] {manager.py:690} INFO - Searching for files in /home/guilherme/extracao-dados-twitter/airflow_pipeline/dags
+[2023-08-18 19:34:45,531] {manager.py:693} INFO - There are 1 files in /home/guilherme/extracao-dados-twitter/airflow_pipeline/dags
+[2023-08-18 19:34:45,888] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/guilherme/extracao-dados-twitter/airflow_pipeline/dags/twitter_dag.py                           1           0  0.31s           2023-08-18T19:34:45
+================================================================================
+[2023-08-18 19:35:17,013] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/guilherme/extracao-dados-twitter/airflow_pipeline/dags/twitter_dag.py                           1           0  0.10s           2023-08-18T19:35:17
+================================================================================
+[2023-08-18 19:35:48,028] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/guilherme/extracao-dados-twitter/airflow_pipeline/dags/twitter_dag.py                           1           0  0.20s           2023-08-18T19:35:48
+================================================================================
+[2023-08-18 19:36:18,825] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/guilherme/extracao-dados-twitter/airflow_pipeline/dags/twitter_dag.py                           1           0  0.10s           2023-08-18T19:36:18
+================================================================================
+[2023-08-18 19:36:49,195] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/guilherme/extracao-dados-twitter/airflow_pipeline/dags/twitter_dag.py                           1           0  0.10s           2023-08-18T19:36:49
+================================================================================
+[2023-08-18 19:37:19,481] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/guilherme/extracao-dados-twitter/airflow_pipeline/dags/twitter_dag.py                           1           0  0.10s           2023-08-18T19:37:19
+================================================================================
+[2023-08-18 19:37:49,771] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/guilherme/extracao-dados-twitter/airflow_pipeline/dags/twitter_dag.py                           1           0  0.10s           2023-08-18T19:37:49
+================================================================================
+[2023-08-18 19:38:20,371] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/guilherme/extracao-dados-twitter/airflow_pipeline/dags/twitter_dag.py                           1           0  0.20s           2023-08-18T19:38:20
+================================================================================
+[2023-08-18 19:38:50,598] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/guilherme/extracao-dados-twitter/airflow_pipeline/dags/twitter_dag.py                           1           0  0.10s           2023-08-18T19:38:50
+================================================================================
+[2023-08-18 19:39:20,881] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/guilherme/extracao-dados-twitter/airflow_pipeline/dags/twitter_dag.py                           1           0  0.10s           2023-08-18T19:39:20
+================================================================================
+[2023-08-18 19:39:46,054] {manager.py:690} INFO - Searching for files in /home/guilherme/extracao-dados-twitter/airflow_pipeline/dags
+[2023-08-18 19:39:46,055] {manager.py:693} INFO - There are 1 files in /home/guilherme/extracao-dados-twitter/airflow_pipeline/dags
+[2023-08-18 19:39:51,169] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/guilherme/extracao-dados-twitter/airflow_pipeline/dags/twitter_dag.py                           1           0  0.10s           2023-08-18T19:39:51
+================================================================================
+[2023-08-18 19:40:21,456] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/guilherme/extracao-dados-twitter/airflow_pipeline/dags/twitter_dag.py                           1           0  0.10s           2023-08-18T19:40:21
+================================================================================
+[2023-08-18 19:40:51,751] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/guilherme/extracao-dados-twitter/airflow_pipeline/dags/twitter_dag.py                           1           0  0.10s           2023-08-18T19:40:51
+================================================================================
+[2023-08-18 19:41:10,467] {manager.py:462} INFO - Exiting gracefully upon receiving signal 15
+[2023-08-18 19:41:51,464] {manager.py:480} INFO - Processing files using up to 1 processes at a time 
+[2023-08-18 19:41:51,465] {manager.py:481} INFO - Process each file at most once every 30 seconds
+[2023-08-18 19:41:51,465] {manager.py:482} INFO - Checking for new files in /home/guilherme/extracao-dados-twitter/airflow_pipeline/dags every 300 seconds
+[2023-08-18 19:41:51,466] {manager.py:690} INFO - Searching for files in /home/guilherme/extracao-dados-twitter/airflow_pipeline/dags
+[2023-08-18 19:41:51,467] {manager.py:693} INFO - There are 1 files in /home/guilherme/extracao-dados-twitter/airflow_pipeline/dags
+[2023-08-18 19:41:51,614] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/guilherme/extracao-dados-twitter/airflow_pipeline/dags/twitter_dag.py                           0           1  0.11s           2023-08-18T19:41:51
+================================================================================
+[2023-08-18 19:42:21,872] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/guilherme/extracao-dados-twitter/airflow_pipeline/dags/twitter_dag.py                           0           1  0.10s           2023-08-18T19:42:21
+================================================================================
+[2023-08-18 19:42:51,545] {manager.py:511} INFO - DAG TwitterDAG is missing and will be deactivated.
+[2023-08-18 19:42:51,549] {manager.py:521} INFO - Deactivated 1 DAGs which are no longer present in file.
+[2023-08-18 19:42:52,216] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/guilherme/extracao-dados-twitter/airflow_pipeline/dags/twitter_dag.py                           0           1  0.10s           2023-08-18T19:42:28
+================================================================================
+[2023-08-18 19:43:12,630] {manager.py:462} INFO - Exiting gracefully upon receiving signal 15
+[2023-08-18 19:43:38,408] {manager.py:480} INFO - Processing files using up to 1 processes at a time 
+[2023-08-18 19:43:38,408] {manager.py:481} INFO - Process each file at most once every 30 seconds
+[2023-08-18 19:43:38,408] {manager.py:482} INFO - Checking for new files in /home/guilherme/extracao-dados-twitter/airflow_pipeline/dags every 300 seconds
+[2023-08-18 19:43:38,409] {manager.py:690} INFO - Searching for files in /home/guilherme/extracao-dados-twitter/airflow_pipeline/dags
+[2023-08-18 19:43:38,410] {manager.py:693} INFO - There are 1 files in /home/guilherme/extracao-dados-twitter/airflow_pipeline/dags
+[2023-08-18 19:43:38,555] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/guilherme/extracao-dados-twitter/airflow_pipeline/dags/twitter_dag.py                           0           1  0.11s           2023-08-18T19:43:38
+================================================================================
+[2023-08-18 19:44:08,771] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/guilherme/extracao-dados-twitter/airflow_pipeline/dags/twitter_dag.py                           0           1  0.10s           2023-08-18T19:44:08
+================================================================================
+[2023-08-18 19:44:39,211] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/guilherme/extracao-dados-twitter/airflow_pipeline/dags/twitter_dag.py                           0           1  0.11s           2023-08-18T19:44:39
+================================================================================
+[2023-08-18 19:45:09,655] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/guilherme/extracao-dados-twitter/airflow_pipeline/dags/twitter_dag.py                           0           1  0.10s           2023-08-18T19:44:50
+================================================================================
+[2023-08-18 19:45:39,771] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/guilherme/extracao-dados-twitter/airflow_pipeline/dags/twitter_dag.py                           0           1  0.10s           2023-08-18T19:45:20
+================================================================================
+[2023-08-18 19:45:50,720] {manager.py:462} INFO - Exiting gracefully upon receiving signal 15
+[2023-08-18 19:47:17,263] {manager.py:480} INFO - Processing files using up to 1 processes at a time 
+[2023-08-18 19:47:17,264] {manager.py:481} INFO - Process each file at most once every 30 seconds
+[2023-08-18 19:47:17,264] {manager.py:482} INFO - Checking for new files in /home/guilherme/extracao-dados-twitter/airflow_pipeline/dags every 300 seconds
+[2023-08-18 19:47:17,264] {manager.py:690} INFO - Searching for files in /home/guilherme/extracao-dados-twitter/airflow_pipeline/dags
+[2023-08-18 19:47:17,265] {manager.py:693} INFO - There are 1 files in /home/guilherme/extracao-dados-twitter/airflow_pipeline/dags
+[2023-08-18 19:47:17,517] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/guilherme/extracao-dados-twitter/airflow_pipeline/dags/twitter_dag.py                           1           0  0.21s           2023-08-18T19:47:17
+================================================================================
+[2023-08-18 19:47:47,678] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/guilherme/extracao-dados-twitter/airflow_pipeline/dags/twitter_dag.py                           1           0  0.10s           2023-08-18T19:47:47
+================================================================================
+[2023-08-18 19:48:18,242] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/guilherme/extracao-dados-twitter/airflow_pipeline/dags/twitter_dag.py                           1           0  0.20s           2023-08-18T19:48:18
+================================================================================
+[2023-08-18 19:48:48,597] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/guilherme/extracao-dados-twitter/airflow_pipeline/dags/twitter_dag.py                           1           0  0.10s           2023-08-18T19:48:48
+================================================================================
+[2023-08-18 19:49:19,063] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/guilherme/extracao-dados-twitter/airflow_pipeline/dags/twitter_dag.py                           1           0  0.10s           2023-08-18T19:49:19
+================================================================================
+[2023-08-18 19:49:49,501] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/guilherme/extracao-dados-twitter/airflow_pipeline/dags/twitter_dag.py                           1           0  0.10s           2023-08-18T19:49:49
+================================================================================
+[2023-08-18 19:50:19,872] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/guilherme/extracao-dados-twitter/airflow_pipeline/dags/twitter_dag.py                           1           0  0.10s           2023-08-18T19:50:19
+================================================================================
+[2023-08-18 19:50:50,322] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/guilherme/extracao-dados-twitter/airflow_pipeline/dags/twitter_dag.py                           1           0  0.10s           2023-08-18T19:50:50
+================================================================================
+[2023-08-18 19:51:20,492] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/guilherme/extracao-dados-twitter/airflow_pipeline/dags/twitter_dag.py                           1           0  0.10s           2023-08-18T19:51:20
+================================================================================
+[2023-08-18 19:51:51,207] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/guilherme/extracao-dados-twitter/airflow_pipeline/dags/twitter_dag.py                           1           0  0.10s           2023-08-18T19:51:51
+================================================================================
+[2023-08-18 19:52:18,442] {manager.py:690} INFO - Searching for files in /home/guilherme/extracao-dados-twitter/airflow_pipeline/dags
+[2023-08-18 19:52:18,443] {manager.py:693} INFO - There are 1 files in /home/guilherme/extracao-dados-twitter/airflow_pipeline/dags
+[2023-08-18 19:52:22,780] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/guilherme/extracao-dados-twitter/airflow_pipeline/dags/twitter_dag.py                           1           0  0.11s           2023-08-18T19:52:22
+================================================================================
+[2023-08-18 19:52:53,622] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/guilherme/extracao-dados-twitter/airflow_pipeline/dags/twitter_dag.py                           1           0  0.10s           2023-08-18T19:52:53
+================================================================================
+[2023-08-18 19:53:23,903] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/guilherme/extracao-dados-twitter/airflow_pipeline/dags/twitter_dag.py                           1           0  0.10s           2023-08-18T19:53:23
+================================================================================
+[2023-08-18 19:53:54,583] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/guilherme/extracao-dados-twitter/airflow_pipeline/dags/twitter_dag.py                           1           0  0.20s           2023-08-18T19:53:54
+================================================================================
+[2023-08-18 19:54:25,547] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/guilherme/extracao-dados-twitter/airflow_pipeline/dags/twitter_dag.py                           1           0  0.31s           2023-08-18T19:54:25
+================================================================================
+[2023-08-18 19:54:55,708] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/guilherme/extracao-dados-twitter/airflow_pipeline/dags/twitter_dag.py                           1           0  0.11s           2023-08-18T19:54:55
+================================================================================
+[2023-08-18 19:55:25,867] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/guilherme/extracao-dados-twitter/airflow_pipeline/dags/twitter_dag.py                           1           0  0.10s           2023-08-18T19:55:25
+================================================================================
+[2023-08-18 19:55:56,029] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/guilherme/extracao-dados-twitter/airflow_pipeline/dags/twitter_dag.py                           1           0  0.10s           2023-08-18T19:55:56
+================================================================================
+[2023-08-18 19:56:26,195] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/guilherme/extracao-dados-twitter/airflow_pipeline/dags/twitter_dag.py                           1           0  0.10s           2023-08-18T19:56:26
+================================================================================
+[2023-08-18 19:56:56,358] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/guilherme/extracao-dados-twitter/airflow_pipeline/dags/twitter_dag.py                           1           0  0.10s           2023-08-18T19:56:56
+================================================================================
+[2023-08-18 19:57:19,488] {manager.py:690} INFO - Searching for files in /home/guilherme/extracao-dados-twitter/airflow_pipeline/dags
+[2023-08-18 19:57:19,489] {manager.py:693} INFO - There are 1 files in /home/guilherme/extracao-dados-twitter/airflow_pipeline/dags
+[2023-08-18 19:57:26,519] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/guilherme/extracao-dados-twitter/airflow_pipeline/dags/twitter_dag.py                           1           0  0.10s           2023-08-18T19:57:26
+================================================================================
+[2023-08-18 19:57:56,689] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/guilherme/extracao-dados-twitter/airflow_pipeline/dags/twitter_dag.py                           1           0  0.11s           2023-08-18T19:57:56
+================================================================================
+[2023-08-18 19:58:26,954] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/guilherme/extracao-dados-twitter/airflow_pipeline/dags/twitter_dag.py                           1           0  0.21s           2023-08-18T19:58:26
+================================================================================
+[2023-08-18 19:58:57,117] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/guilherme/extracao-dados-twitter/airflow_pipeline/dags/twitter_dag.py                           1           0  0.10s           2023-08-18T19:58:57
+================================================================================
+[2023-08-18 19:59:27,279] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/guilherme/extracao-dados-twitter/airflow_pipeline/dags/twitter_dag.py                           1           0  0.10s           2023-08-18T19:59:27
+================================================================================
+[2023-08-18 19:59:57,442] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/guilherme/extracao-dados-twitter/airflow_pipeline/dags/twitter_dag.py                           1           0  0.10s           2023-08-18T19:59:57
+================================================================================
+[2023-08-18 20:00:27,606] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/guilherme/extracao-dados-twitter/airflow_pipeline/dags/twitter_dag.py                           1           0  0.10s           2023-08-18T20:00:27
+================================================================================
+[2023-08-18 20:00:57,783] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/guilherme/extracao-dados-twitter/airflow_pipeline/dags/twitter_dag.py                           1           0  0.10s           2023-08-18T20:00:57
+================================================================================
+[2023-08-18 20:01:27,943] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/guilherme/extracao-dados-twitter/airflow_pipeline/dags/twitter_dag.py                           1           0  0.10s           2023-08-18T20:01:27
+================================================================================
+[2023-08-18 20:01:58,811] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/guilherme/extracao-dados-twitter/airflow_pipeline/dags/twitter_dag.py                           1           0  0.81s           2023-08-18T20:01:58
+================================================================================
+[2023-08-18 20:02:19,513] {manager.py:690} INFO - Searching for files in /home/guilherme/extracao-dados-twitter/airflow_pipeline/dags
+[2023-08-18 20:02:19,514] {manager.py:693} INFO - There are 1 files in /home/guilherme/extracao-dados-twitter/airflow_pipeline/dags
+[2023-08-18 20:02:29,074] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/guilherme/extracao-dados-twitter/airflow_pipeline/dags/twitter_dag.py                           1           0  0.20s           2023-08-18T20:02:29
+================================================================================
+[2023-08-18 20:02:59,637] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/guilherme/extracao-dados-twitter/airflow_pipeline/dags/twitter_dag.py                           1           0  0.51s           2023-08-18T20:02:59
+================================================================================
+[2023-08-18 20:03:29,828] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/guilherme/extracao-dados-twitter/airflow_pipeline/dags/twitter_dag.py                           1           0  0.10s           2023-08-18T20:03:29
+================================================================================
+[2023-08-18 20:03:59,993] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/guilherme/extracao-dados-twitter/airflow_pipeline/dags/twitter_dag.py                           1           0  0.11s           2023-08-18T20:03:59
+================================================================================
+[2023-08-18 20:04:30,261] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/guilherme/extracao-dados-twitter/airflow_pipeline/dags/twitter_dag.py                           1           0  0.20s           2023-08-18T20:04:30
+================================================================================
+[2023-08-18 20:05:00,423] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/guilherme/extracao-dados-twitter/airflow_pipeline/dags/twitter_dag.py                           1           0  0.10s           2023-08-18T20:05:00
+================================================================================
+[2023-08-18 20:05:30,586] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/guilherme/extracao-dados-twitter/airflow_pipeline/dags/twitter_dag.py                           1           0  0.10s           2023-08-18T20:05:30
+================================================================================
+[2023-08-18 20:06:00,750] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/guilherme/extracao-dados-twitter/airflow_pipeline/dags/twitter_dag.py                           1           0  0.10s           2023-08-18T20:06:00
+================================================================================
+[2023-08-18 20:06:30,913] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/guilherme/extracao-dados-twitter/airflow_pipeline/dags/twitter_dag.py                           1           0  0.10s           2023-08-18T20:06:30
+================================================================================
+[2023-08-18 20:07:01,073] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/guilherme/extracao-dados-twitter/airflow_pipeline/dags/twitter_dag.py                           1           0  0.10s           2023-08-18T20:07:01
+================================================================================
+[2023-08-18 20:07:19,545] {manager.py:690} INFO - Searching for files in /home/guilherme/extracao-dados-twitter/airflow_pipeline/dags
+[2023-08-18 20:07:19,547] {manager.py:693} INFO - There are 1 files in /home/guilherme/extracao-dados-twitter/airflow_pipeline/dags
+[2023-08-18 20:07:31,435] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/guilherme/extracao-dados-twitter/airflow_pipeline/dags/twitter_dag.py                           1           0  0.31s           2023-08-18T20:07:31
+================================================================================
+[2023-08-18 20:08:01,800] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/guilherme/extracao-dados-twitter/airflow_pipeline/dags/twitter_dag.py                           1           0  0.31s           2023-08-18T20:08:01
+================================================================================
+[2023-08-18 20:08:31,984] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/guilherme/extracao-dados-twitter/airflow_pipeline/dags/twitter_dag.py                           1           0  0.11s           2023-08-18T20:08:31
+================================================================================
+[2023-08-18 20:09:02,144] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/guilherme/extracao-dados-twitter/airflow_pipeline/dags/twitter_dag.py                           1           0  0.10s           2023-08-18T20:09:02
+================================================================================
+[2023-08-18 20:09:32,305] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/guilherme/extracao-dados-twitter/airflow_pipeline/dags/twitter_dag.py                           1           0  0.10s           2023-08-18T20:09:32
+================================================================================
+[2023-08-18 20:10:02,467] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/guilherme/extracao-dados-twitter/airflow_pipeline/dags/twitter_dag.py                           1           0  0.10s           2023-08-18T20:10:02
+================================================================================
+[2023-08-18 20:10:32,630] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/guilherme/extracao-dados-twitter/airflow_pipeline/dags/twitter_dag.py                           1           0  0.10s           2023-08-18T20:10:32
+================================================================================
+[2023-08-18 20:11:02,791] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/guilherme/extracao-dados-twitter/airflow_pipeline/dags/twitter_dag.py                           1           0  0.10s           2023-08-18T20:11:02
+================================================================================
+[2023-08-18 20:11:32,953] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/guilherme/extracao-dados-twitter/airflow_pipeline/dags/twitter_dag.py                           1           0  0.10s           2023-08-18T20:11:32
+================================================================================
+[2023-08-18 20:12:03,082] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/guilherme/extracao-dados-twitter/airflow_pipeline/dags/twitter_dag.py                           1           0  0.10s           2023-08-18T20:12:03
+================================================================================
+[2023-08-18 20:12:19,575] {manager.py:690} INFO - Searching for files in /home/guilherme/extracao-dados-twitter/airflow_pipeline/dags
+[2023-08-18 20:12:19,577] {manager.py:693} INFO - There are 1 files in /home/guilherme/extracao-dados-twitter/airflow_pipeline/dags
+[2023-08-18 20:12:33,245] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/guilherme/extracao-dados-twitter/airflow_pipeline/dags/twitter_dag.py                           1           0  0.10s           2023-08-18T20:12:33
+================================================================================
+[2023-08-18 20:13:03,409] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/guilherme/extracao-dados-twitter/airflow_pipeline/dags/twitter_dag.py                           1           0  0.10s           2023-08-18T20:13:03
+================================================================================
+[2023-08-18 20:13:33,571] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/guilherme/extracao-dados-twitter/airflow_pipeline/dags/twitter_dag.py                           1           0  0.10s           2023-08-18T20:13:33
+================================================================================
+[2023-08-18 20:14:03,735] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/guilherme/extracao-dados-twitter/airflow_pipeline/dags/twitter_dag.py                           1           0  0.11s           2023-08-18T20:14:03
+================================================================================
+[2023-08-18 20:14:33,897] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/guilherme/extracao-dados-twitter/airflow_pipeline/dags/twitter_dag.py                           1           0  0.10s           2023-08-18T20:14:33
+================================================================================
+[2023-08-18 20:15:04,061] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/guilherme/extracao-dados-twitter/airflow_pipeline/dags/twitter_dag.py                           1           0  0.10s           2023-08-18T20:15:04
+================================================================================
+[2023-08-18 20:15:34,229] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/guilherme/extracao-dados-twitter/airflow_pipeline/dags/twitter_dag.py                           1           0  0.10s           2023-08-18T20:15:34
+================================================================================
+[2023-08-18 20:16:04,397] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/guilherme/extracao-dados-twitter/airflow_pipeline/dags/twitter_dag.py                           1           0  0.11s           2023-08-18T20:16:04
+================================================================================
+[2023-08-18 20:16:34,561] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/guilherme/extracao-dados-twitter/airflow_pipeline/dags/twitter_dag.py                           1           0  0.10s           2023-08-18T20:16:34
+================================================================================
+[2023-08-18 20:17:04,727] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/guilherme/extracao-dados-twitter/airflow_pipeline/dags/twitter_dag.py                           1           0  0.10s           2023-08-18T20:17:04
+================================================================================
+[2023-08-18 20:17:19,756] {manager.py:690} INFO - Searching for files in /home/guilherme/extracao-dados-twitter/airflow_pipeline/dags
+[2023-08-18 20:17:19,758] {manager.py:693} INFO - There are 1 files in /home/guilherme/extracao-dados-twitter/airflow_pipeline/dags
+[2023-08-18 20:17:35,005] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/guilherme/extracao-dados-twitter/airflow_pipeline/dags/twitter_dag.py                           1           0  0.20s           2023-08-18T20:17:35
+================================================================================
+[2023-08-18 20:17:36,953] {manager.py:462} INFO - Exiting gracefully upon receiving signal 15

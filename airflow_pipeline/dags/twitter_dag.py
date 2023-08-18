@@ -6,7 +6,7 @@ from operators.twitter_operator import TwitterOperator
 from os.path import join
 from airflow.utils.dates import days_ago
     
-with DAG(dag_id = "TwitterDAG", start_date=days_ago(2), schedule_interval="@daily") as dag:
+with DAG(dag_id = "TwitterDAG", start_date=days_ago(60), schedule_interval="@daily") as dag:
     
     TIMESTAMP_FORMAT = "%Y-%m-%dT%H:%M:%S.00Z"
     query = "datascience"
